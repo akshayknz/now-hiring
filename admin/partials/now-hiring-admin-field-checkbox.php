@@ -19,4 +19,4 @@
 		type="checkbox"
 		value="1" />
 	<span class="description"><?php esc_html_e( $atts['description'], 'now-hiring' ); ?></span>
-</label>
+</label> 
